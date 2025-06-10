@@ -1,8 +1,6 @@
 ﻿using Domain.Entities;
 
 
-
-
 public class UserProfileManagement : IUserProfileManagement
 {
 
