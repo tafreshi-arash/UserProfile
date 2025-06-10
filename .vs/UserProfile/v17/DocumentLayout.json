@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\.Net Projects\\UserProfile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE785871-4778-470A-8328-40EB2C987C8C}|ProfileController\\ProfileController.csproj|d:\\.net projects\\userprofile\\profilecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE785871-4778-470A-8328-40EB2C987C8C}|ProfileController\\ProfileController.csproj|solutionrelative:profilecontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40142CD9-CB31-415E-8AA8-613B4FBD300E}|Application\\Application.csproj|d:\\.net projects\\userprofile\\application\\userprofilemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40142CD9-CB31-415E-8AA8-613B4FBD300E}|Application\\Application.csproj|solutionrelative:application\\userprofilemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net Projects\\UserProfile\\ProfileController\\appsettings.json",
+              "RelativeDocumentMoniker": "ProfileController\\appsettings.json",
+              "ToolTip": "D:\\.Net Projects\\UserProfile\\ProfileController\\appsettings.json",
+              "RelativeToolTip": "ProfileController\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T13:24:26.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserProfileManagement.cs",
               "DocumentMoniker": "D:\\.Net Projects\\UserProfile\\Application\\UserProfileManagement.cs",
               "RelativeDocumentMoniker": "Application\\UserProfileManagement.cs",
               "ToolTip": "D:\\.Net Projects\\UserProfile\\Application\\UserProfileManagement.cs",
               "RelativeToolTip": "Application\\UserProfileManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T13:08:01.789Z",
               "EditorCaption": ""
