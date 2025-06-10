@@ -15,6 +15,7 @@ namespace UserProfileController.Controllers
         }
 
         [HttpGet, Route("Get")]
+        // Search By Name or Family or Both
         public async Task<IActionResult> GetUser([FromQuery] string? name, [FromQuery] string? family)
         {
             var result = await userController.GetUserAsync(name, family);
