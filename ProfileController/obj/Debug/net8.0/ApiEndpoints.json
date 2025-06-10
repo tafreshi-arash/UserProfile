@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "UserProfileController.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "family",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

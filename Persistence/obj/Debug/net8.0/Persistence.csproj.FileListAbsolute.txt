@@ -1,0 +1,14 @@
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\PsychologyTelegramSystem\UserProfileTest\Persistence\obj\Debug\net8.0\ref\Persistence.dll
