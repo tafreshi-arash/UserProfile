@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wi7LxE4oVzOt/dck1iZUuZLlJKIgxEg3rB9OE0e7NG3hyjD5D7IyYejNKR8fSWHWcSZUL1rXsfcR6v//R3/V2Q==",
+  "dgSpecHash": "9xFBqGJv7hYyNGNw508oeOFDFcdFNFCpxE2i6+3U6MGP8tPK5QglgXZyr05HATY/6fh++Xd8GXyqZO1tLwgYiw==",
   "success": true,
-  "projectFilePath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Application\\Application.csproj",
+  "projectFilePath": "D:\\.Net Projects\\UserProfile\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SarayeTel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SarayeTel\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

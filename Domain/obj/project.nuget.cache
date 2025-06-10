@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2oL/BaxiEWRM/ntJcqwE4akFkmmDdc6erxRGPh/457aGmdk1M3EdCmfd50vE+bMiA2ot5hiPOR4c7Y0hpEeUA==",
+  "dgSpecHash": "KaYraE+bk0Bth1E/UgepmubVrQYXh3UZlKS9x9sm2rFFrYlKIgp0r1WnBSxQUg6hjK5961ia3Ee2lloBlU39uA==",
   "success": true,
-  "projectFilePath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\.Net Projects\\UserProfile\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

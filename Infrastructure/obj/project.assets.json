@@ -205,11 +205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\.Net Projects\\UserProfile\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\.Net Projects\\UserProfile\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\SarayeTel\\.nuget\\packages\\",
-      "outputPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Infrastructure\\obj\\",
+      "outputPath": "D:\\.Net Projects\\UserProfile\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

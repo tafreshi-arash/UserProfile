@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Persistence;
 
+
 public class UserProfileManagement : IUserProfileManagement
 {
 

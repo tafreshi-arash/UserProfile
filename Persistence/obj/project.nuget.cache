@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/qqL4MvPa3/8esqVSO2RUmhoAa29GOtsf4btXuo8cwphgwN6dJ6U0krISCZVh7icol6WRDuwWHRFpBj8L1+CA==",
+  "dgSpecHash": "TvDVXOB+cQamP+t7Kr+sxk7uqgTO1jas6OumPYzEH6ibF6e3yUlmm6BK1NXb/IMk7/NfjJQtKFfRrllYPyyc/Q==",
   "success": true,
-  "projectFilePath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\.Net Projects\\UserProfile\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SarayeTel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\SarayeTel\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

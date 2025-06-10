@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserProfileTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83797e93c94a44521af9997e2b602adcdc6fca44")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserProfileTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserProfileTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

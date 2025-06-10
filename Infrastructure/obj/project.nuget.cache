@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yExvxuBi9ji/LzZY/Njp4yLBEZV7pOFpkgxEhexI1EMb6tRb2HGoSd/uhsAtyWC94PPXicWz1bDS0SVRhqXjjg==",
+  "dgSpecHash": "cbs1zzKcx5R+lP7swZAiJ2b/JDxwZUobDl9ZI8maFgFqvuTa7tcG+uEd8wmCwSIIQBXo3GfaoecRwR8/5LjEjQ==",
   "success": true,
-  "projectFilePath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\.Net Projects\\UserProfile\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SarayeTel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\SarayeTel\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",

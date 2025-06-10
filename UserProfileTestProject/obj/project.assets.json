@@ -8285,11 +8285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PsychologyTelegramSystem\\UserProfileTest\\UserProfileTestProject\\UserProfileTest.csproj",
+      "projectUniqueName": "D:\\.Net Projects\\UserProfile\\UserProfileTestProject\\UserProfileTest.csproj",
       "projectName": "UserProfileTest",
-      "projectPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\UserProfileTestProject\\UserProfileTest.csproj",
+      "projectPath": "D:\\.Net Projects\\UserProfile\\UserProfileTestProject\\UserProfileTest.csproj",
       "packagesPath": "C:\\Users\\SarayeTel\\.nuget\\packages\\",
-      "outputPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\UserProfileTestProject\\obj\\",
+      "outputPath": "D:\\.Net Projects\\UserProfile\\UserProfileTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8311,11 +8311,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PsychologyTelegramSystem\\UserProfileTest\\Application\\Application.csproj": {
-              "projectPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Application\\Application.csproj"
+            "D:\\.Net Projects\\UserProfile\\Application\\Application.csproj": {
+              "projectPath": "D:\\.Net Projects\\UserProfile\\Application\\Application.csproj"
             },
-            "D:\\PsychologyTelegramSystem\\UserProfileTest\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\PsychologyTelegramSystem\\UserProfileTest\\Domain\\Domain.csproj"
+            "D:\\.Net Projects\\UserProfile\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\.Net Projects\\UserProfile\\Domain\\Domain.csproj"
             }
           }
         }
