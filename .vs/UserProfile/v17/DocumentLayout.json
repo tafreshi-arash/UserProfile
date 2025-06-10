@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.Net Projects\\UserProfile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40142CD9-CB31-415E-8AA8-613B4FBD300E}|Application\\Application.csproj|d:\\.net projects\\userprofile\\application\\userprofilemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40142CD9-CB31-415E-8AA8-613B4FBD300E}|Application\\Application.csproj|solutionrelative:application\\userprofilemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfileManagement.cs",
+              "DocumentMoniker": "D:\\.Net Projects\\UserProfile\\Application\\UserProfileManagement.cs",
+              "RelativeDocumentMoniker": "Application\\UserProfileManagement.cs",
+              "ToolTip": "D:\\.Net Projects\\UserProfile\\Application\\UserProfileManagement.cs",
+              "RelativeToolTip": "Application\\UserProfileManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:08:01.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

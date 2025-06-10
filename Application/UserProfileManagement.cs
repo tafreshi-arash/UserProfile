@@ -1,5 +1,6 @@
 ﻿using Domain.Entities;
-using Persistence;
+
+
 
 
 public class UserProfileManagement : IUserProfileManagement
@@ -33,7 +34,7 @@ public class UserProfileManagement : IUserProfileManagement
 
             return userInfoes;
         }
-        catch (Exception ex) 
+        catch (Exception ex)
         {
             // Log (SeriLog or Microsoft Extension Log)
             // Temporary using console log
